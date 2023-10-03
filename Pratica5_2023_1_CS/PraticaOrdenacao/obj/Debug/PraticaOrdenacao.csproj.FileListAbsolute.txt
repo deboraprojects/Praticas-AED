@@ -1,0 +1,20 @@
+h:\visual studio 2013\Projects\PraticaOrdenacao\PraticaOrdenacao\bin\Debug\PraticaOrdenacao.exe.config
+h:\visual studio 2013\Projects\PraticaOrdenacao\PraticaOrdenacao\bin\Debug\PraticaOrdenacao.exe
+h:\visual studio 2013\Projects\PraticaOrdenacao\PraticaOrdenacao\bin\Debug\PraticaOrdenacao.pdb
+h:\visual studio 2013\Projects\PraticaOrdenacao\PraticaOrdenacao\obj\Debug\PraticaOrdenacao.csprojResolveAssemblyReference.cache
+h:\visual studio 2013\Projects\PraticaOrdenacao\PraticaOrdenacao\obj\Debug\PraticaOrdenacao.Properties.Resources.resources
+h:\visual studio 2013\Projects\PraticaOrdenacao\PraticaOrdenacao\obj\Debug\PraticaOrdenacao.csproj.GenerateResource.Cache
+h:\visual studio 2013\Projects\PraticaOrdenacao\PraticaOrdenacao\obj\Debug\PraticaOrdenacao.exe
+h:\visual studio 2013\Projects\PraticaOrdenacao\PraticaOrdenacao\obj\Debug\PraticaOrdenacao.pdb
+H:\visual studio 2013\Projects\PraticaOrdenacao\PraticaOrdenacao\obj\Debug\PraticaOrdenacao.Ordenacao.resources
+D:\PraticaOrdenacao\PraticaOrdenacao\bin\Debug\PraticaOrdenacao.exe.config
+D:\PraticaOrdenacao\PraticaOrdenacao\obj\Debug\PraticaOrdenacao.exe
+D:\PraticaOrdenacao\PraticaOrdenacao\obj\Debug\PraticaOrdenacao.pdb
+D:\PraticaOrdenacao\PraticaOrdenacao\obj\Debug\PraticaOrdenacao.csprojResolveAssemblyReference.cache
+D:\PraticaOrdenacao\PraticaOrdenacao\obj\Debug\PraticaOrdenacao.Properties.Resources.resources
+D:\PraticaOrdenacao\PraticaOrdenacao\obj\Debug\PraticaOrdenacao.csproj.GenerateResource.Cache
+D:\PraticaOrdenacao\PraticaOrdenacao\bin\Debug\PraticaOrdenacao.exe
+D:\PraticaOrdenacao\PraticaOrdenacao\bin\Debug\PraticaOrdenacao.pdb
+D:\PraticaOrdenacao\PraticaOrdenacao\obj\Debug\PraticaOrdenacao.FormOrdenacao.resources
+H:\visual studio 2013\Projects\PraticaOrdenacao_2018_1\PraticaOrdenacao\bin\Debug\PraticaOrdenacao.exe.config
+H:\visual studio 2013\Projects\PraticaOrdenacao_2018_1\PraticaOrdenacao\obj\Debug\PraticaOrdenacao.pdb

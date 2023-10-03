@@ -1,0 +1,38 @@
+D:\Users\Cotemig\Downloads\PraticaOrdenacao_2020_1_CS\PraticaOrdenacao\bin\Debug\PraticaOrdenacao.exe.config
+D:\Users\Cotemig\Downloads\PraticaOrdenacao_2020_1_CS\PraticaOrdenacao\bin\Debug\PraticaOrdenacao.exe
+D:\Users\Cotemig\Downloads\PraticaOrdenacao_2020_1_CS\PraticaOrdenacao\bin\Debug\PraticaOrdenacao.pdb
+D:\Users\Cotemig\Downloads\PraticaOrdenacao_2020_1_CS\PraticaOrdenacao\obj\Debug\Pratica5.FormOrdenacao.resources
+D:\Users\Cotemig\Downloads\PraticaOrdenacao_2020_1_CS\PraticaOrdenacao\obj\Debug\PraticaOrdenacao.Properties.Resources.resources
+D:\Users\Cotemig\Downloads\PraticaOrdenacao_2020_1_CS\PraticaOrdenacao\obj\Debug\Pratica5.csproj.GenerateResource.cache
+D:\Users\Cotemig\Downloads\PraticaOrdenacao_2020_1_CS\PraticaOrdenacao\obj\Debug\Pratica5.csproj.CoreCompileInputs.cache
+D:\Users\Cotemig\Downloads\PraticaOrdenacao_2020_1_CS\PraticaOrdenacao\obj\Debug\PraticaOrdenacao.exe
+D:\Users\Cotemig\Downloads\PraticaOrdenacao_2020_1_CS\PraticaOrdenacao\obj\Debug\PraticaOrdenacao.pdb
+D:\Users\Cotemig\Downloads\PraticaOrdenacao_2020_2_CS\PraticaOrdenacao\bin\Debug\PraticaOrdenacao.exe.config
+D:\Users\Cotemig\Downloads\PraticaOrdenacao_2020_2_CS\PraticaOrdenacao\bin\Debug\PraticaOrdenacao.exe
+D:\Users\Cotemig\Downloads\PraticaOrdenacao_2020_2_CS\PraticaOrdenacao\bin\Debug\PraticaOrdenacao.pdb
+D:\Users\Cotemig\Downloads\PraticaOrdenacao_2020_2_CS\PraticaOrdenacao\obj\Debug\Pratica5.csprojAssemblyReference.cache
+D:\Users\Cotemig\Downloads\PraticaOrdenacao_2020_2_CS\PraticaOrdenacao\obj\Debug\Pratica5.FormOrdenacao.resources
+D:\Users\Cotemig\Downloads\PraticaOrdenacao_2020_2_CS\PraticaOrdenacao\obj\Debug\PraticaOrdenacao.Properties.Resources.resources
+D:\Users\Cotemig\Downloads\PraticaOrdenacao_2020_2_CS\PraticaOrdenacao\obj\Debug\Pratica5.csproj.GenerateResource.cache
+D:\Users\Cotemig\Downloads\PraticaOrdenacao_2020_2_CS\PraticaOrdenacao\obj\Debug\Pratica5.csproj.CoreCompileInputs.cache
+D:\Users\Cotemig\Downloads\PraticaOrdenacao_2020_2_CS\PraticaOrdenacao\obj\Debug\PraticaOrdenacao.exe
+D:\Users\Cotemig\Downloads\PraticaOrdenacao_2020_2_CS\PraticaOrdenacao\obj\Debug\PraticaOrdenacao.pdb
+D:\Users\Cotemig\Downloads\PraticaOrdenacao_2021_1_CS\PraticaOrdenacao\bin\Debug\PraticaOrdenacao.exe.config
+D:\Users\Cotemig\Downloads\PraticaOrdenacao_2021_1_CS\PraticaOrdenacao\bin\Debug\PraticaOrdenacao.exe
+D:\Users\Cotemig\Downloads\PraticaOrdenacao_2021_1_CS\PraticaOrdenacao\bin\Debug\PraticaOrdenacao.pdb
+D:\Users\Cotemig\Downloads\PraticaOrdenacao_2021_1_CS\PraticaOrdenacao\obj\Debug\Pratica5.FormOrdenacao.resources
+D:\Users\Cotemig\Downloads\PraticaOrdenacao_2021_1_CS\PraticaOrdenacao\obj\Debug\PraticaOrdenacao.Properties.Resources.resources
+D:\Users\Cotemig\Downloads\PraticaOrdenacao_2021_1_CS\PraticaOrdenacao\obj\Debug\Pratica5.csproj.GenerateResource.cache
+D:\Users\Cotemig\Downloads\PraticaOrdenacao_2021_1_CS\PraticaOrdenacao\obj\Debug\Pratica5.csproj.CoreCompileInputs.cache
+D:\Users\Cotemig\Downloads\PraticaOrdenacao_2021_1_CS\PraticaOrdenacao\obj\Debug\PraticaOrdenacao.exe
+D:\Users\Cotemig\Downloads\PraticaOrdenacao_2021_1_CS\PraticaOrdenacao\obj\Debug\PraticaOrdenacao.pdb
+H:\Visual Studio 2022\Projects\Pratica5_2023_1_CS\PraticaOrdenacao\bin\Debug\PraticaOrdenacao.exe.config
+H:\Visual Studio 2022\Projects\Pratica5_2023_1_CS\PraticaOrdenacao\bin\Debug\PraticaOrdenacao.exe
+H:\Visual Studio 2022\Projects\Pratica5_2023_1_CS\PraticaOrdenacao\bin\Debug\PraticaOrdenacao.pdb
+H:\Visual Studio 2022\Projects\Pratica5_2023_1_CS\PraticaOrdenacao\obj\Debug\Pratica5.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\Projects\Pratica5_2023_1_CS\PraticaOrdenacao\obj\Debug\Pratica5.FormOrdenacao.resources
+H:\Visual Studio 2022\Projects\Pratica5_2023_1_CS\PraticaOrdenacao\obj\Debug\PraticaOrdenacao.Properties.Resources.resources
+H:\Visual Studio 2022\Projects\Pratica5_2023_1_CS\PraticaOrdenacao\obj\Debug\Pratica5.csproj.GenerateResource.cache
+H:\Visual Studio 2022\Projects\Pratica5_2023_1_CS\PraticaOrdenacao\obj\Debug\Pratica5.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\Projects\Pratica5_2023_1_CS\PraticaOrdenacao\obj\Debug\PraticaOrdenacao.exe
+H:\Visual Studio 2022\Projects\Pratica5_2023_1_CS\PraticaOrdenacao\obj\Debug\PraticaOrdenacao.pdb

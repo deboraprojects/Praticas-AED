@@ -1,0 +1,8 @@
+H:\Visual Studio 2022\Projects\Pratica1 - Pilha\Pratica1 - Pilha\bin\Debug\Pratica1 - Pilha.exe.config
+H:\Visual Studio 2022\Projects\Pratica1 - Pilha\Pratica1 - Pilha\bin\Debug\Pratica1 - Pilha.exe
+H:\Visual Studio 2022\Projects\Pratica1 - Pilha\Pratica1 - Pilha\bin\Debug\Pratica1 - Pilha.pdb
+H:\Visual Studio 2022\Projects\Pratica1 - Pilha\Pratica1 - Pilha\obj\Debug\Pratica1 - Pilha.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\Projects\Pratica1 - Pilha\Pratica1 - Pilha\obj\Debug\Pratica1 - Pilha.csproj.SuggestedBindingRedirects.cache
+H:\Visual Studio 2022\Projects\Pratica1 - Pilha\Pratica1 - Pilha\obj\Debug\Pratica1 - Pilha.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\Projects\Pratica1 - Pilha\Pratica1 - Pilha\obj\Debug\Pratica1 - Pilha.exe
+H:\Visual Studio 2022\Projects\Pratica1 - Pilha\Pratica1 - Pilha\obj\Debug\Pratica1 - Pilha.pdb
